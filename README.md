@@ -12,3 +12,7 @@ cc -pthread threads_demo.c -o /tmp/threads-demo
 ```
 
 I can compile `threads_race.c` the same way to inspect its interleaved output. The two programs use different workloads.
+
+## License
+
+I license my C threading examples under the [MIT License](LICENSE).
